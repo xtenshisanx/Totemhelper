@@ -1,0 +1,5 @@
+C:\Users\Simon\Downloads\PoEHUD-x64\plugins\TotemHelper\src\TotemHelper\obj\Debug\TotemHelper.csprojResolveAssemblyReference.cache
+C:\Users\Simon\Downloads\PoEHUD-x64\plugins\TotemHelper\src\TotemHelper\obj\Debug\TotemHelper.dll
+C:\Users\Simon\Downloads\PoEHUD-x64\plugins\TotemHelper\src\TotemHelper\obj\Debug\TotemHelper.pdb
+C:\Users\Simon\Downloads\PoEHUD-x64\plugins\TotemHelper\TotemHelper.dll
+C:\Users\Simon\Downloads\PoEHUD-x64\plugins\TotemHelper\TotemHelper.pdb
